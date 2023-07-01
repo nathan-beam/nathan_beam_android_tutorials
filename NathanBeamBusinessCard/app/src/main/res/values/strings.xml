@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nathan Beam Business Card</string>
+    <string name="website">nathanbeam.codes</string>
+    <string name="email_address">nathan.w.beam@gmail.com</string>
+    <string name="phone_number">678-526-3463</string>
+    <string name="job_title">Senior Software Engineer</string>
+    <string name="full_name">Nathan Beam</string>
+</resources>

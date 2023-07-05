@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="clare_hall_year">1793</string>
+    <string name="clare_hall_artist">JMW Turner</string>
+    <string name="clare_hall_title">Clare Hall</string>
+
+    <string name="hare_year">1502</string>
+    <string name="hare_artist">Albrech Dürer</string>
+    <string name="hare_title">Hare</string>
+
+    <string name="landscape_of_morocco_year">1849</string>
+    <string name="landscape_of_morocco_artist">Elizabeth Murray</string>
+    <string name="landscape_of_morocco_title">Watercolour of a landscape of Morocco</string>
+
+    <string name="landscape_with_gypsies_and_wagon_year">Mid-19th century</string>
+    <string name="landscape_with_gypsies_and_wagon_artist">David Cox</string>
+    <string name="landscape_with_gypsies_and_wagon_title">Landscape with Gypsies and Wagon</string>
+
+    <string name="the_green_hill_year">1878</string>
+    <string name="the_green_hill_artist">Winslow Homer</string>
+    <string name="the_green_hill_title">The Green Hill</string>
+    <string name="artist_year_template">%s (%s)</string>\
+</resources>
